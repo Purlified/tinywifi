@@ -38,7 +38,7 @@
   followed by <b>13</b> users
 </div>
 <div class="stdin"><span class="ps1-path">tinywifi@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  856</b> commits
+  <b>  855</b> commits
   <b>    0</b> pull requests reviewed
   <b>    7</b> pull requests opened
   <b>    0</b> issues opened
@@ -50,7 +50,7 @@
   <b>   23</b> repositories starred
   <b>   11</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">tinywifi@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 41 repositories - 593 MB
+<div class="stdin"><span class="ps1-path">tinywifi@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 41 repositories - 594 MB
 -r--  <b>    6</b>  stargazers
 -r--  <b>    1</b>  fork
 -r--  <b>    7</b>  watchers
