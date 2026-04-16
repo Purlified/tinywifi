@@ -60,7 +60,7 @@ dr-x         LICENSE
 </div>
 <div class="stdin"><span class="ps1-path">tinywifi@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [##########          ] 45.42%
 <b>TYPESCRIPT  </b> [#####               ] 21.73%
-<b>JAVASCRIPT  </b> [###                 ] 12.23%
+<b>JAVASCRIPT  </b> [###                 ] 12.22%
 <b>C#          </b> [##                  ] 8.64 %
 <b>OTHER       </b> [###                 ] 11.98%
 </div>
