@@ -58,11 +58,11 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── Unlicense
 </div>
-<div class="stdin"><span class="ps1-path">tinywifi@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [##########          ] 45.42%
-<b>TYPESCRIPT  </b> [#####               ] 21.73%
-<b>JAVASCRIPT  </b> [###                 ] 12.22%
-<b>C#          </b> [##                  ] 8.64 %
-<b>OTHER       </b> [###                 ] 11.98%
+<div class="stdin"><span class="ps1-path">tinywifi@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [##########          ] 45.51%
+<b>TYPESCRIPT  </b> [#####               ] 21.69%
+<b>JAVASCRIPT  </b> [###                 ] 12.21%
+<b>C#          </b> [##                  ] 8.63 %
+<b>OTHER       </b> [###                 ] 11.97%
 </div>
 
 </pre>
